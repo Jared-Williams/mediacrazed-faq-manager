@@ -14,7 +14,7 @@
  *
  * @wordpress-plugin
  * Plugin Name:       MediaCrazed FAQ Manager
- * Plugin URI:        MediaCrazed FAQ Manager
+ * Plugin URI:        https://github.com/Jared-Williams/mediacrazed-faq-manager
  * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
  * Version:           1.0.0
  * Author:            MediaCrazed
@@ -23,6 +23,8 @@
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       mediacrazed-faq-manager
  * Domain Path:       /languages
+ * GitHub Plugin URI: https://github.com/Jared-Williams/mediacrazed-faq-manager
+ * GitHub Branch:     master
  */
 
 // If this file is called directly, abort.
