@@ -34,7 +34,7 @@ class MediaCrazed_FAQ_Manager_Loader extends Gamajo_Template_Loader {
 	 * @since 1.0.0
 	 * @type string
 	 */
-	protected $theme_template_directory = 'faq-manager';
+	protected $theme_template_directory = 'faq-templates';
 	/**
 	 * Reference to the root directory path of this plugin.
 	 *
