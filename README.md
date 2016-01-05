@@ -1,13 +1,13 @@
 # MediaCrazed FAQ Manager #
 
-**Contributors:** [Jared_Wills](http://www.mediacrazed.com)
-**Donate link:** http://www.mediacrazed.com
-**Tags:** FAQ
-**Requires at least:** 4.3
-**Tested up to:** 4.4
-**Stable tag:** 4.3
-**License:** GPLv2 or later
-**License URI:** http://www.gnu.org/licenses/gpl-2.0.html
+**Contributors:** [Jared_Wills](http://www.mediacrazed.com)  
+**Donate link:** http://www.mediacrazed.com  
+**Tags:** FAQ  
+**Requires at least:** 4.3  
+**Tested up to:** 4.4  
+**Stable tag:** 4.3  
+**License:** GPLv2 or later  
+**License URI:** http://www.gnu.org/licenses/gpl-2.0.html  
 
 Simple FAQ manager plugin for client sites. Ya know, to manage FAQs!
 
