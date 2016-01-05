@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       MediaCrazed FAQ Manager
  * Plugin URI:        https://github.com/Jared-Williams/mediacrazed-faq-manager
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       Provides a simple Custom Post Type to manage FAQs for clients. 
  * Version:           1.0.0
  * Author:            MediaCrazed
  * Author URI:        http://www.mediacrazed.com
