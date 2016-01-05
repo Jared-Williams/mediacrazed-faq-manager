@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== MediaCrazed FAQ Manager ===
 Contributors: Jared_Wills
 Donate link: http://www.mediacrazed.com
 Tags: FAQ
