@@ -20,7 +20,7 @@ if( ! class_exists( 'Gamajo_Template_Loader' ) ) {
  * @package MediaCrazed_FAQ_Manager
  * @author  Gary Jones
  */
-class MediaCrazed_FAQ_Manager_Loader extends Gamajo_Template_Loader {
+class MediaCrazed_FAQ_Template_Loader extends Gamajo_Template_Loader {
 	/**
 	 * Prefix for filter names.
 	 *
