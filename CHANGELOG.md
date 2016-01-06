@@ -1,3 +1,7 @@
+## 1.1.7
+
+Fatal error due to Public function still being shown. Removed.
+
 ## 1.1.6
 
 Removed references to Theme Template files as they are not needed now. Also removed Public folder and Admin scripts that are not needed for the plugin anymore.
