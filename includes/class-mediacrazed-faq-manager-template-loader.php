@@ -10,7 +10,7 @@
  */
  
 if( ! class_exists( 'Gamajo_Template_Loader' ) ) {
-	require plugin_dir_path( __FILE__ ) . 'class-gamajo-template-loader.php';
+	require plugin_dir_path( __FILE__ ) . 'includes/class-gamajo-template-loader.php';
 }
 /**
  * Template loader for MediaCrazed FAQ Manager.
