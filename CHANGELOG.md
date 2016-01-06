@@ -1,3 +1,7 @@
+## 1.1.4
+
+Fix changes that broke the site.
+
 ## 1.1.2
 
 Updated Readme and added Markdown version. Also added an additional sample theme template file.
