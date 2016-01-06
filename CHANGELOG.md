@@ -1,3 +1,7 @@
+## 1.1.5
+
+Removed references to Theme Template files as they are not needed now. Also removed Public folder and Admin scripts that are not needed for the plugin anymore.
+
 ## 1.1.4
 
 Fix changes that broke the site.
