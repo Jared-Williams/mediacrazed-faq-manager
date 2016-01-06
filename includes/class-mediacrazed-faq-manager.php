@@ -107,12 +107,6 @@ class Mediacrazed_Faq_Manager {
 		 * of the plugin.
 		 */
 		require_once plugin_dir_path( dirname( __FILE__ ) ) . 'includes/class-mediacrazed-faq-manager-i18n.php';
-		
-		/**
-		 * The class responsible for template functionality
-		 * of the plugin.
-		 */
-		require_once plugin_dir_path( dirname( __FILE__ ) ) . 'includes/class-mediacrazed-faq-manager-template-loader.php';
 
 		/**
 		 * The class responsible for defining all actions that occur in the admin area.
