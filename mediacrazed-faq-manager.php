@@ -32,6 +32,8 @@ if ( ! defined( 'WPINC' ) ) {
 	die;
 }
 
+define( 'MEDIACRAZED_FAQ_MANAGER_PLUGIN_DIR', plugin_dir_path( __FILE__ ) );
+
 /**
  * The code that runs during plugin activation.
  * This action is documented in includes/class-mediacrazed-faq-manager-activator.php
