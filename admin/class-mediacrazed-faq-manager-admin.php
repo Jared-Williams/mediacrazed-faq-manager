@@ -102,7 +102,7 @@ class Mediacrazed_Faq_Manager_Admin {
 				'label'                 => __( 'FAQ', 'text_domain' ),
 				'description'           => __( 'FAQ Manager from MediaCrazed', 'text_domain' ),
 				'labels'                => $labels,
-				'supports'              => array( 'title', 'editor', ),
+				'supports'              => array( 'title', 'editor', 'page-attributes' ),
 				'taxonomies'            => array( 'category', 'post_tag' ),
 				'hierarchical'          => false,
 				'public'                => true,
