@@ -15,11 +15,11 @@ function Mc_faq_manager_shortcode( $atts ) {
 
 	if($ids) :
 		$idarray = explode(',', $ids);
-		$args = array('post_type' => 'faq', 'posts_per_page' => -1, 'post__in' => $idarray);
+		$args = array('post_type' => 'mc_faq_post_type', 'posts_per_page' => -1, 'post__in' => $idarray);
 	elseif ($category) :
-		$args = array('post_type' => 'faq', 'posts_per_page' => -1, 'faq-category' => $category, 'orderby' => 'menu_order', 'order' => 'ASC');
+		$args = array('post_type' => 'mc_faq_post_type', 'posts_per_page' => -1, 'faq-category' => $category, 'orderby' => 'menu_order', 'order' => 'ASC');
 	else :
-		$args = array('post_type' => 'faq', 'posts_per_page' => -1, 'orderby' => 'menu_order', 'order' => 'ASC');
+		$args = array('post_type' => 'mc_faq_post_type', 'posts_per_page' => -1, 'orderby' => 'menu_order', 'order' => 'ASC');
 	endif;
 	
 	
