@@ -1,3 +1,7 @@
+## 1.1.9
+
+Added js for toggling FAQs
+
 ## 1.1.8
 
 Shortcode
