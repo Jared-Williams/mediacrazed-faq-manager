@@ -8,7 +8,6 @@ function Mc_faq_manager_shortcode( $atts ) {
 	extract( shortcode_atts(
 		array(
 			'style' => '',
-			'columns' => '',
 			'category' => '',
 		), $atts )
 	);
@@ -21,17 +20,6 @@ function Mc_faq_manager_shortcode( $atts ) {
 	else :
 		$args = array('post_type' => 'mc_faq_post_type', 'posts_per_page' => -1, 'orderby' => 'menu_order', 'order' => 'ASC');
 	endif;
-	
-	// Column Support
-	if( !isset( $atts['columns'] ) )
-		return $classes;
-		
-	$columns = array( '', '', 'one-half', 'one-third', 'one-fourth', 'one-fifth', 'one-sixth' );
-	$classes[] = $columns[$atts['columns']];
-	if( 0 == $listing->current_post || 0 == $listing->current_post % $atts['columns'] )
-		$classes[] = 'first';
-	return $classes;
-	
 	
 	global $post;
 	$flfaq = new WP_Query( $args );
