@@ -1,3 +1,7 @@
+## 1.1.8
+
+Shortcode
+
 ## 1.1.7
 
 Fatal error due to Public function still being shown. Removed.
