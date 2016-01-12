@@ -7,7 +7,7 @@ function Mc_faq_manager_shortcode( $atts ) {
 	// Attributes
 	extract( shortcode_atts(
 		array(
-			'style' => 'simple',
+			'style' => '',
 			'columns' => '',
 			'category' => '',
 		), $atts )
