@@ -1,3 +1,7 @@
+## 1.2.0
+
+New shortcode styles added. No CSS. Add to theme.
+
 ## 1.1.9
 
 Added js for toggling FAQs
