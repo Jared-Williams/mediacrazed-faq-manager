@@ -115,7 +115,7 @@ class Mediacrazed_Faq_Manager {
 		/**
 		 * The class responsible for defining the shortcode.
 		 */
-		require_once plugin_dir_path( dirname( __FILE__ ) ) . 'includes/shortcode.php';
+		require_once plugin_dir_path( dirname( __FILE__ ) ) . 'includes/shortcodes.php';
 
 		$this->loader = new Mediacrazed_Faq_Manager_Loader();
 
