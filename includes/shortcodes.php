@@ -9,7 +9,7 @@ function Mc_faq_manager_shortcode( $atts ) {
 		array(
 			'style' => 'simple',
 			'columns' => '1',
-			'category' => 'all',
+			'category' => '',
 		), $atts )
 	);
 
