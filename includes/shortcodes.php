@@ -8,7 +8,7 @@ function Mc_faq_manager_shortcode( $atts ) {
 	extract( shortcode_atts(
 		array(
 			'style' => 'simple',
-			'columns' => '1',
+			'columns' => '',
 			'category' => '',
 		), $atts )
 	);
